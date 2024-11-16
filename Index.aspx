@@ -5,15 +5,16 @@
 <head runat="server">
     <title>Memória Viva</title>
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="main.css"  rel="stylesheet"/>
     <script src="Scripts/bootstrap.bundle.min.js"></script>
+
 </head>
 
 <body>
-   <div>
-        <form id="form1" runat="server">
-    
-   
-         </form>
-   </div>
-</body>
+    <form id="form1" runat="server">
+        <div >
+            
+        </div>
+    </form>
+   </body>
 </html>
